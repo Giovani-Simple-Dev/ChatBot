@@ -4,7 +4,13 @@ Aura is a chatbot made with the Google Gemini API and it was designed to be an o
 
 # How to use
 
+
+
+
 git clone https://github.com/Giovani-Simple-Dev/ChatBot/
+
+
+
 cd ChatBot
 
 ---
